@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectA.TeamA/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjectA.TeamA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectA.TeamA.dll": {}
+        }
+      },
+      "ProjectA.TeamB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjectA.TeamB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectA.TeamB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectA.TeamA/1.0.0": {
+      "type": "project",
+      "path": "../ProjectA.TeamA/ProjectA.TeamA.csproj",
+      "msbuildProject": "../ProjectA.TeamA/ProjectA.TeamA.csproj"
+    },
+    "ProjectA.TeamB/1.0.0": {
+      "type": "project",
+      "path": "../ProjectA.TeamB/ProjectA.TeamB.csproj",
+      "msbuildProject": "../ProjectA.TeamB/ProjectA.TeamB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ProjectA.TeamA >= 1.0.0",
+      "ProjectA.TeamB >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp\\Namespaces\\Namespaces\\Namespaces.csproj",
+      "projectName": "Namespaces",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp\\Namespaces\\Namespaces\\Namespaces.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp\\Namespaces\\Namespaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp\\Namespaces\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp\\Namespaces\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
+            },
+            "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp\\Namespaces\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp\\Namespaces\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
