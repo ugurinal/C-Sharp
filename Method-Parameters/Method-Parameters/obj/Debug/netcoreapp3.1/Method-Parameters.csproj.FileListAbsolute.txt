@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\bin\Debug\netcoreapp3.1\Method-Parameters.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\bin\Debug\netcoreapp3.1\Method-Parameters.deps.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\bin\Debug\netcoreapp3.1\Method-Parameters.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\bin\Debug\netcoreapp3.1\Method-Parameters.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\bin\Debug\netcoreapp3.1\Method-Parameters.dll
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\bin\Debug\netcoreapp3.1\Method-Parameters.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\obj\Debug\netcoreapp3.1\Method-Parameters.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\obj\Debug\netcoreapp3.1\Method-Parameters.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\obj\Debug\netcoreapp3.1\Method-Parameters.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\obj\Debug\netcoreapp3.1\Method-Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\obj\Debug\netcoreapp3.1\Method-Parameters.dll
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\obj\Debug\netcoreapp3.1\Method-Parameters.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Parameters\Method-Parameters\obj\Debug\netcoreapp3.1\Method-Parameters.genruntimeconfig.cache
