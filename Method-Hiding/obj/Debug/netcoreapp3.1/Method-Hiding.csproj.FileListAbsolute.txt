@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\bin\Debug\netcoreapp3.1\Method-Hiding.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\bin\Debug\netcoreapp3.1\Method-Hiding.deps.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\bin\Debug\netcoreapp3.1\Method-Hiding.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\bin\Debug\netcoreapp3.1\Method-Hiding.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\bin\Debug\netcoreapp3.1\Method-Hiding.dll
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\bin\Debug\netcoreapp3.1\Method-Hiding.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\obj\Debug\netcoreapp3.1\Method-Hiding.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\obj\Debug\netcoreapp3.1\Method-Hiding.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\obj\Debug\netcoreapp3.1\Method-Hiding.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\obj\Debug\netcoreapp3.1\Method-Hiding.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\obj\Debug\netcoreapp3.1\Method-Hiding.dll
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\obj\Debug\netcoreapp3.1\Method-Hiding.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Method-Hiding\obj\Debug\netcoreapp3.1\Method-Hiding.genruntimeconfig.cache
