@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
